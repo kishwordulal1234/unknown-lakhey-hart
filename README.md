@@ -1,3 +1,18 @@
+
+**Heads up! 🚨** This tool has superpowers, but with great power comes great responsibility... 💪
+
+This script can potentially exploit vulnerabilities in certain versions of OpenSSH, including (but not limited to) OpenSSH 4.7p1 Debian 8ubuntu1 (protocol 2.0) and OpenSSH 9.2 p1.
+
+Before you unleash its power, please be aware:
+
+Use it responsibly! This tool is intended for authorized testing purposes only. Trespassing on digital turf is a big no-no! Think of it like respecting a locked door! 🔒
+
+Permission is key! Always get explicit permission before using this tool on any system. Unauthorized access is both illegal and unethical. 🚔 It's like borrowing someone's phone without asking! 📱
+
+Remember, with great power comes great ethical responsibility! Let's keep the digital world safe and secure. Together we can be digital superheroes! 🦸‍♂️🦸‍♀️ So, 🦸‍♂️ let's do our part to safeguard the online realm! 💻🛡️ And remember, every action you take online has consequences, so wield your power wisely! 🌟
+
+
+
 Unknown Lakhey Hart
 Python Version
 
@@ -62,15 +77,3 @@ python3 unknown_lakhey_hart.py
 
 
 
-
-**Heads up! 🚨** This tool has superpowers, but with great power comes great responsibility... 💪
-
-This script can potentially exploit vulnerabilities in certain versions of OpenSSH, including (but not limited to) OpenSSH 4.7p1 Debian 8ubuntu1 (protocol 2.0) and OpenSSH 9.2 p1.
-
-Before you unleash its power, please be aware:
-
-Use it responsibly! This tool is intended for authorized testing purposes only. Trespassing on digital turf is a big no-no! Think of it like respecting a locked door! 🔒
-
-Permission is key! Always get explicit permission before using this tool on any system. Unauthorized access is both illegal and unethical. 🚔 It's like borrowing someone's phone without asking! 📱
-
-Remember, with great power comes great ethical responsibility! Let's keep the digital world safe and secure. Together we can be digital superheroes! 🦸‍♂️🦸‍♀️ So, 🦸‍♂️ let's do our part to safeguard the online realm! 💻🛡️ And remember, every action you take online has consequences, so wield your power wisely! 🌟
