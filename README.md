@@ -50,12 +50,24 @@ Navigate to the project directory:
 2. change the directory 
 
 cd unknown-lakhey-hart
-Install dependencies:
-bash
-Copy code
+
+3.
 pip3 install -r requirements.txt
-Run the script:
-bash
-Copy code
+
+
+4. Run the script:
+
+
 python3 unknown_lakhey_hart.py
-Follow the on-screen instructions to configure and execute the exploit.
+
+
+
+
+## ⚠️🛠️ Installation - Important: Exploitation Advisory
+<div style="background-color:#ffcccc; padding:10px; border-radius:5px;">
+<b style="color:red;">⚠️ Warning:</b> This script exploits vulnerabilities in specific versions of OpenSSH, including but not limited to OpenSSH 4.7p1 Debian 8ubuntu1 (protocol 2.0) and OpenSSH 9.2 p1. Use this tool responsibly and only on systems you have explicit permission to test. Unauthorized access to computer systems or networks without permission is illegal and unethical.
+</div>
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/kishwordulal1234/unknown-lakhey-hart.git
