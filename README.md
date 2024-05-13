@@ -40,3 +40,21 @@ This project is licensed under the MIT License.
 Special thanks to [unknone hart] for their valuable contributions.
 
 👹 Unknown Lakhey Hart: A Python script leveraging Metasploit for SSH port exploitation & interactive shell access. Enhance penetration testing with customizable options & comprehensive reporting. Uncover vulnerabilities, fortify defenses, & bolster cybersecurity. 🛡️
+
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/kishwordulal1234/unknown-lakhey-hart.git
+Navigate to the project directory:
+```bash
+Copy code
+```cd unknown-lakhey-hart
+Install dependencies:
+bash
+Copy code
+```pip3 install -r requirements.txt
+Run the script:
+bash
+Copy code
+```python3 unknown_lakhey_hart.py
+Follow the on-screen instructions to configure and execute the exploit.
