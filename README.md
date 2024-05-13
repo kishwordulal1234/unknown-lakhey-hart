@@ -16,7 +16,7 @@ Unknown Lakhey Hart is a powerful Python script designed for exploiting SSH port
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/unknown-lakhey-hart.git
+   https://github.com/kishwordulal1234/unknown-lakhey-hart.git
 Navigate to the project directory:
 
 bash
