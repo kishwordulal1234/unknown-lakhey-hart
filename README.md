@@ -47,14 +47,15 @@ Special thanks to [unknone hart] for their valuable contributions.
    git clone https://github.com/kishwordulal1234/unknown-lakhey-hart.git
 Navigate to the project directory:
 ```bash
-Copy code
-```cd unknown-lakhey-hart
+2. change the directory 
+
+cd unknown-lakhey-hart
 Install dependencies:
 bash
 Copy code
-```pip3 install -r requirements.txt
+pip3 install -r requirements.txt
 Run the script:
 bash
 Copy code
-```python3 unknown_lakhey_hart.py
+python3 unknown_lakhey_hart.py
 Follow the on-screen instructions to configure and execute the exploit.
